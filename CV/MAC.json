@@ -1,0 +1,359 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Miguel",
+      "surnames": "Perez Colino",
+      "title": "Senior Manager Tanzu Solution Engineering",
+      "description": "I’m a technology enthusiast. A senior manager and leader with over 22 years of experience in technology, and over 7 years in product & project management. Expertise in coordination of large transformative projects, and taking care of central mid-size teams. Background in security restricted environments such as the Defence and Finance verticals, with management, technical and interpersonal skills, and experience in tactical and strategic layers.",
+      "avatar": {
+        "alt": "Foto_Miguel_Perez_Colino.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/05/3c8c150f-e331-4310-a0ad-dda219056be6_foto_miguel_perez_co.jpg"
+      },
+      "location": {
+        "notes": "Madrid, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/miguelpc"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/mperezco"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/mmmmmmpc"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Two MSc degrees",
+        "fact": "I started studying chemistry because I love understanding where do things come from, but I then fell in love with Computer Science an got my MSc in it too."
+      },
+      {
+        "topic": "I love playing bass",
+        "fact": "Playing bass or guitar is a source of joy for me. I specially enjoy it when playing as part of a band in live gigs. Getting on stage is one of those things I do really love."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "VMware",
+          "image": {
+            "alt": "tanzu-logo-300x295-1-214x210.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/06033b2e-c700-4312-8954-6c568ce3ac38_tanzu-logo-300x295-1.png"
+          },
+          "URL": "https://tanzu.vmware.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Manager Tanzu Solution Engineering",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Modern Application Platform Business Unit (MAPBU) / R&D\nManager for Customer [0] Team\nCustomer[0] takes an opinionated, full stack view of the VMware Tanzu platform, tempered by best practices and tribal learnings from the field, to test, validate and document the most reasonable, reliable app container models for long term use. We do this as an engineering team rooted in R&D and built with customer-facing talent."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "VMware",
+          "image": {
+            "alt": "tanzu-logo-300x295-1-214x210.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/08482dd6-5a04-41fc-b93d-34f2c6224777_tanzu-logo-300x295-1.png"
+          },
+          "URL": "https://tanzu.vmware.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Manager Tanzu Solution Engineering",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Modern Application Platform Business Unit (MAPBU) / R&D\nManager for Customer [0] Team\nCustomer[0] takes an opinionated, full stack view of the VMware Tanzu platform, tempered by best practices and tribal learnings from the field, to test, validate and document the most reasonable, reliable app container models for long term use. We do this as an engineering team rooted in R&D and built with customer-facing talent."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Red Hat",
+          "image": {
+            "alt": "Red_Hat_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/3decc80c-1e6c-4cf5-9f0c-127ba75883e0_red_hat_logo.png"
+          },
+          "URL": "https://redhat.com"
+        },
+        "roles": [
+          {
+            "name": "Principal Product Manager",
+            "startDate": "2019-03-01",
+            "finishDate": "2021-04-01",
+            "challenges": [
+              {
+                "description": "Working as Principal Product Manager in the Cloud Platforms Business Unit at Red Hat.\nProduct Manager for Migration Toolkit for Applications [https://red.ht/mta].\nCreation and go to market of the new SaaS tool Migration Analytics to perform infrastructure level assessments.\nSpeaker on Red Hat Summit, OpenShift Commons and OpenShift.tv, as well as many other industry events."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Red Hat",
+          "image": {
+            "alt": "Red_Hat_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/28f03b7e-0eed-45f4-96d9-cdf6f372c719_red_hat_logo.png"
+          },
+          "URL": "https://redhat.com"
+        },
+        "roles": [
+          {
+            "name": "Senior Principal Product Manager",
+            "startDate": "2021-04-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Working as Senior Principal Product Manager in the Hybrid Platforms Business Unit at Red Hat.\nProduct Management for Migration Toolkit for Virtualization, a tool to simplify virtual machine (lift & shift) migrations from other virtualization platforms to OpenShift Virtualization.\nDirect involvement in the Konveyor community [konveyor.io]\nRoadmap definition and prioritization. Escalation management. Involvement in the field both at technical and presales levels in the 4 regions: NA, EMEA, APAC and LATAM. \nSpeaker at Red Hat Summit (6 years), OpenShift Commons and OpenShift.tv, theCube, as well as many other industry events."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Red Hat",
+          "image": {
+            "alt": "Red_Hat_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/8746e624-95cf-4558-a551-f348e66270f1_red_hat_logo.png"
+          },
+          "URL": "https://redhat.com"
+        },
+        "roles": [
+          {
+            "name": "Principal Solution Owner",
+            "startDate": "2017-11-01",
+            "finishDate": "2019-02-01",
+            "challenges": [
+              {
+                "description": "Vertical Markets and Solutions Business Unit\nHorizontal Solutions Team\nInfrastructure Migration Solution red.ht/possibilities\nRed Hat Spokesperson\nSales and Presales Enablement"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              },
+              {
+                "name": "OpenStack",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "German"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Puppet",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenShift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SaaS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unix",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "MSc Chemistry",
+        "startDate": "1992-09-01",
+        "finishDate": "2000-09-01",
+        "institution": {
+          "name": "Universidad Autónoma de Madrid",
+          "description": "Speciality in Inorganic Chemistry",
+          "URL": "https://uam.es"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://linkedin.com/in/miguelpc"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
